@@ -1,0 +1,6 @@
+{
+  "name": "Movie-trailers",
+  "tagline": "Udacity Movie Trailer Project",
+  "body": "**FRESH TOMATOES MOVIE TRAILER APP**\r\n\r\n\r\nThis app launches a webpage and displays a list of movies,\r\nalong with the rating, release date, and run time.\r\n\r\n\r\n**AUTHORS**\r\n\r\n\r\n-Udacity\r\n-Casey Wilcox\r\n\r\n\r\n**HOW TO USE**\r\n\r\n\r\nOpen up your cmd or terminal and open it to the location it is saved\r\n\r\nExample: >>>cd Desktop\\FreshTomatoes\r\n\r\nOnce the cmd or terminal is set to that destination input the following line:\r\n\r\npython entertainment_center.py\r\n\r\n\r\n\r\n**WEB APP FUNCTIONALITY**\r\n\r\n\r\nOnce you are using the web app you have access to all of those trailers\r\nby simply clicking the poster image.\r\n\r\n\r\n**TROUBLESHOOTING**\r\n\r\n\r\nOnce you tell the cmd or terminal to run entertainment_center.py a web\r\nbrowser should open, however if a web browser does not open do this:\r\n\r\nNavigate to the folder the files are in, there will be a \"fresh_tomatoes.html\"\r\nfile. \r\n\r\nNow you have two options:\r\n\r\n1: Right click > open with > FireFox/Chrome/IE/etc..\r\n\r\n2: Drag file to your web browser and it will launch the file.\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
